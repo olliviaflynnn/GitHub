@@ -1,4 +1,4 @@
-public int add(int z, int y)
+jhkbpublic int add(int z, int y)
 {
 return z+y;
 }
